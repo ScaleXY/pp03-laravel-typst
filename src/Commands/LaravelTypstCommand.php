@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace ScaleXY\LaravelTypst\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelTypstCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-typst';
 
     public $description = 'My command';
 
