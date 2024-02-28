@@ -2,9 +2,9 @@
 
 namespace ScaleXY\LaravelTypst;
 
+use ScaleXY\LaravelTypst\Commands\LaravelTypstCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use ScaleXY\LaravelTypst\Commands\LaravelTypstCommand;
 
 class LaravelTypstServiceProvider extends PackageServiceProvider
 {
